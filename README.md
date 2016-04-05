@@ -39,6 +39,7 @@ Here is an example of it's record:
 $$E142,3781,AAA,35,39.9604,116.37053,080202155756,A,3,17,53,267,7.1,22,100,200,310|260|7dc1|93c8,0000,0000|0000|0000|9d3|0,,*AA
 
 The The important fields are as follows:
+
 1. imei (field 1) - String, The unique field of the device
 2. Latitude (field 4) - double
 3. Longitude - (field 5)  - double
