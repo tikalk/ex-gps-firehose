@@ -24,6 +24,7 @@ Next thing, you need to unzip it and put the files in /var/log/fleettracker/gps-
 Unzip the file as-gps-firehose/build/distributions/as-gps-firehose-1.0.0.tar.gz
 cd to the created folder (as-gps-firehose-1.0.0)
 Run the following command : 
+
 ./run-bin/gps-firehose.sh
 
 
